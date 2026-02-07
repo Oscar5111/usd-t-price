@@ -4,6 +4,21 @@
   "type": "module",
   "dependencies": {
     "@vercel/node": "^3.1.0"
-  }
+  },
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/OSCAR5111/usd-t-price.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/OSCAR5111/usd-t-price/issues"
+  },
+  "homepage": "https://github.com/OSCAR5111/usd-t-price#readme",
+  "description": ""
 }
-
