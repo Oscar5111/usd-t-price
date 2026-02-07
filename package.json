@@ -1,0 +1,9 @@
+{
+  "name": "usd-t-price",
+  "version": "1.0.0",
+  "type": "module",
+  "dependencies": {
+    "@vercel/node": "^3.1.0"
+  }
+}
+
